@@ -29,14 +29,14 @@ And soon will be a Full-Stack Web Developer! 🎨
 
 | English | Turkish |
 |:-------:|:-------:|
-| C2      | Native  |
+| B1      | Native  |
 
   </div></td></tr> 
 </table>
 
 ## 💬 Contact
-- You can personally contact me here: kerem7095@gmail.com
-- And here is my LinkedIn - [![](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/keremilhan/)
+- You can personally contact me here: bmkozkaya@gmail.com
+- And here is my LinkedIn - [![](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kadir-%C3%B6zkaya-08252153/)
 
 ## 📑 Stats
 

@@ -41,5 +41,5 @@ And soon will be a Full-Stack Web Developer! 🎨
 
 ![](https://komarev.com/ghpvc/?username=keremilhan&style=for-the-badge&color=blue)
 
-<img src="https://github-readme-stats.vercel.app/api?username=kadirzkaya&theme=chartreuse-dark&show_icons=true" alt="my github stats" width="49%"/>&nbsp;
+<img src="https://github-readme-stats.vercel.app/api?username=keremilhan&theme=chartreuse-dark&show_icons=true" alt="my github stats" width="49%"/>&nbsp;
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kadirzkaya&theme=chartreuse-dark&layout=compact" alt="languages" width="50%" >
